@@ -1,4 +1,4 @@
-## moderncv 
+## moderncv ##
 
 -- a modern curriculum vitae class
 
